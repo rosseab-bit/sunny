@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "sunny",
-    "slug": "sunny",
+    "name": "clima_react",
+    "slug": "clima_react",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
