@@ -1,0 +1,4 @@
+# ignoro path porque se recrea con 
+# npm 
+./node_modules
+node_modules/
